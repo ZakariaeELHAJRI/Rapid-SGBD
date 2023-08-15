@@ -31,6 +31,9 @@ git clone https://github.com/your-username/Rapid-SGBD.git
 **Import Existed Database:**
 
 
+
+
+
 Open the main interface.
 
 Click on the "Import Database" option.
