@@ -6,6 +6,7 @@
 Welcome to the Rapid-SGBD documentation! This guide will walk you through the process of getting started with the application and using its features for streamlined database management.
 
 ## Table of Contents
+
 1. [Getting Started](#getting-started)
    1. [Clone the Repository](#clone-the-repository)
    2. [Import Existing Database](#import-existing-database)
@@ -21,6 +22,7 @@ Welcome to the Rapid-SGBD documentation! This guide will walk you through the pr
    2. [Accessing Options](#accessing-options)
 
 ## Getting Started
+
 ### Clone the Repository
 To start using Rapid-SGBD, clone the repository to your local machine using the following command:
 
