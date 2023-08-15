@@ -1,19 +1,38 @@
 # Getting Started Guide
-
-To get started with Rapid-SGBD, follow these steps:
-
 ![Main Interface](./images/1.png)
 
-1. **Clone the Repository:**
-   Clone the Rapid-SGBD repository to your local machine using the following command:
+   # Rapid-SGBD Documentation
 
-   ```bash
-   git clone https://github.com/your-username/Rapid-SGBD.git
+Welcome to the Rapid-SGBD documentation! This guide will walk you through the process of getting started with the application and using its features for streamlined database management.
+
+## Table of Contents
+1. [Getting Started](#getting-started)
+   1. [Clone the Repository](#clone-the-repository)
+   2. [Import Existing Database](#import-existing-database)
+   3. [Export Imported Tables](#export-imported-tables)
+   4. [Create New Database](#create-new-database)
+2. [Managing Databases](#managing-databases)
+   1. [Adding Tables](#adding-tables)
+   2. [Defining Column Properties](#defining-column-properties)
+   3. [Generating Test Data](#generating-test-data)
+   4. [Download Script](#download-script)
+3. [Application Settings](#application-settings)
+   1. [Configuring Parameters](#configuring-parameters)
+   2. [Accessing Options](#accessing-options)
+
+## Getting Started
+### Clone the Repository
+To start using Rapid-SGBD, clone the repository to your local machine using the following command:
+
+```bash
+git clone https://github.com/your-username/Rapid-SGBD.git
 **Import Existed Database:**
 
 
 Open the main interface.
+
 Click on the "Import Database" option.
+
 Steps:
 
 ![steps](./images/2.png)
