@@ -2,7 +2,7 @@
 
 To get started with Rapid-SGBD, follow these steps:
 
-!(images/1.png)
+![Main Interface](documentation/images/2.png)
 
 1. **Clone the Repository:**
    Clone the Rapid-SGBD repository to your local machine using the following command:
