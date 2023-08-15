@@ -15,6 +15,7 @@ To get started with Rapid-SGBD, follow these steps:
 Open the main interface.
 Click on the "Import Database" option.
 Steps:
+
 ![steps](./images/2.png)
 Set the connection string to your existing database.
 ![connection string](./images/3.png)
