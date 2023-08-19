@@ -30,7 +30,6 @@ To start using Rapid-SGBD, clone the repository to your local machine using the 
 git clone https://github.com/your-username/Rapid-SGBD.git
 ```
 
-
 ## Import Existed Database:
 
 Open the main interface.
