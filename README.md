@@ -26,5 +26,3 @@ Welcome to **Rapid-SGBD**, an innovative project designed to streamline and expe
 Experience the future of database management with Rapid-SGBD. Our user-friendly tools are engineered to save you time, boost efficiency, and enhance collaboration. Get started today and see how Rapid-SGBD transforms your database tasks into a rapid, hassle-free experience.
 
 
-
-
