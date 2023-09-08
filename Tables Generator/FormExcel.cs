@@ -127,7 +127,7 @@ namespace Tables_Generator
                         }
                     }
                 }
-                wbImport.Close(true, System.Type.Missing, System.Type.Missing);
+         wbImport.Close(true, System.Type.Missing, System.Type.Missing);
 
             }
             catch (Exception ex)
