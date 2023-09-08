@@ -26,7 +26,6 @@ namespace Tables_Generator
             try
             {
 
-
                 SqlConnectionStringBuilder cs = new SqlConnectionStringBuilder(input);
 
 
