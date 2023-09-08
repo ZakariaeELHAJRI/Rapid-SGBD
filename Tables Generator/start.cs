@@ -28,7 +28,6 @@ namespace Tables_Generator
 
                 SqlConnectionStringBuilder cs = new SqlConnectionStringBuilder(input);
 
-
                 if (cs.InitialCatalog == string.Empty || cs.ConnectionString == string.Empty || cs.DataSource == string.Empty)
                 {
                     FormMessageBoxOK m = new FormMessageBoxOK("Alert", "ConnectionString Invalide");
