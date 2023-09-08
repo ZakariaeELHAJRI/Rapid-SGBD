@@ -203,6 +203,6 @@ namespace Tables_Generator
             X.Show("NB : une colonne utilisée ne contient pas obligatoirement des données", cbColumn);            
         }
         #endregion
-       
+    
     }
 }
