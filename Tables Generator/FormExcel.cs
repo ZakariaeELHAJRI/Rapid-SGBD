@@ -193,7 +193,6 @@ namespace Tables_Generator
             e.SuppressKeyPress = true;
         }
 
-
         #endregion
 
         #region cbColumn_MouseHover
