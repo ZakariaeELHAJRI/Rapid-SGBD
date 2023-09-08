@@ -108,7 +108,6 @@ namespace Tables_Generator
             }
         }
         #endregion
-
         #region btnAddQuery
         private void btnAddQuery_Click(object sender, EventArgs e)
         {
