@@ -12,7 +12,6 @@ namespace Tables_Generator
             InitializeComponent();
             selectedValue = previousFormSelectedValue;
         }
-
         string selectedValue;
         string fileName;
 
