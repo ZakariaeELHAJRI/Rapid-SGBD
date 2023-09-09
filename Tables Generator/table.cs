@@ -53,7 +53,6 @@ namespace Tables_Generator
                     x.Add(columns[i].Nom);
             }
             return x;
-
         }
        
     }
