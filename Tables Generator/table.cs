@@ -39,6 +39,7 @@ namespace Tables_Generator
             {
                 if (item.Primarykey)
                     x.Add(item.Nom);
+               
             }
             return x;
         }
