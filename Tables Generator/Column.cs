@@ -48,7 +48,6 @@ namespace Tables_Generator
         public string CheckValue2 { get; set; }
         public int IdentitySeed { get; set; }
         public int IdentityStep { get; set; }
-
         public string FKtable { get; set; }
         public string FKcolumn { get; set; }
 
