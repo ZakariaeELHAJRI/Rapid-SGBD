@@ -53,6 +53,5 @@ namespace Tables_Generator
         public string FKcolumn { get; set; }
 
 
-
     }
 }
