@@ -22,7 +22,6 @@ namespace Tables_Generator
 
         private void ChoisirCtg_Load(object sender, EventArgs e)
         {
-
             foreach (Categorie X in StoredData.categoriesContainer)
             {
                 comboBox1.Items.Add(X.Name);
