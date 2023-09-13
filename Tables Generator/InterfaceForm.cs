@@ -6,6 +6,7 @@ using System.Data.SqlClient; //Needed here to catch the Exception in FormSQL
 using System.IO;
 using System.Threading.Tasks;
 
+
 namespace Tables_Generator
 {
     public partial class InterfaceForm : Form
