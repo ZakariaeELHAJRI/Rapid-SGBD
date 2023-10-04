@@ -8,5 +8,6 @@ namespace Tables_Generator
 {
     class Garbage
     {
+        
     }
 }
