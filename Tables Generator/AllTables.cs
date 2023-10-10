@@ -47,7 +47,6 @@ namespace Tables_Generator
 
                         x.Add(item.tableName);
                         break;
-
                     }
                 }
             }
