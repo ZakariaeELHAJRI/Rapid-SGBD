@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Linq
+using System.Linq;
 
 namespace Tables_Generator
 {
