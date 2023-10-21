@@ -61,7 +61,6 @@ namespace Tables_Generator
             return Tables[tIndex].columns[cindex].Type;
 
         }
-
         private static Type jibtype(string type)
         {
 
