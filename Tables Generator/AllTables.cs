@@ -14,6 +14,7 @@ namespace Tables_Generator
         public static string dbname;
         public static List<table> Tables;
         public static DataSet TablesDs;
+        
         public static bool dbFull
         {
             get
