@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-
 namespace Tables_Generator
 {
    public class Column
@@ -42,7 +40,6 @@ namespace Tables_Generator
         public bool Default { get; set; }
         public bool Check { get; set; }
         public bool Fk { get; set; }
-
         public string DefaultValue { get; set; }
         public string CheckOperator { get; set; }
         public string[] CheckValue1 { get; set; }
