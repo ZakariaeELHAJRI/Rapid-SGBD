@@ -15,6 +15,7 @@ namespace Tables_Generator
             Nom = nom;
            
             Type = type;
+           
             Primarykey = primarykey;
             Null = @null;
             Unique = unique;
