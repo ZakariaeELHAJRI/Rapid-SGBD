@@ -21,6 +21,7 @@ namespace Tables_Generator
             Null = @null;
            
             Unique = unique;
+           
             Identity = identity;
             Default = @default;
             Check = check;
