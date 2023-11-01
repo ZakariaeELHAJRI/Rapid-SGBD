@@ -19,6 +19,7 @@ namespace Tables_Generator
             Primarykey = primarykey;
            
             Null = @null;
+           
             Unique = unique;
             Identity = identity;
             Default = @default;
