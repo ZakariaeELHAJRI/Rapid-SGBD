@@ -13,8 +13,6 @@ namespace Tables_Generator
         public Column(string nom, string type, bool unique, bool primarykey, bool @null, bool @default, bool identity, bool check, string defaultValue, int identitySeed, int identityIncrement, string checkOperator, string[] checkValue1, string checkValue2, string fKtable, string fKcolumn, bool fk)
         {
             Nom = nom;
-
-           
             Type = type;
            
             Primarykey = primarykey;
