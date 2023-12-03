@@ -2,8 +2,6 @@
 
 
 
-
-
 Welcome to **Rapid-SGBD**, an innovative project designed to streamline and expedite your database management experience. Whether you're a database professional, a trainer, or a student, our mission is to provide you with a comprehensive set of tools that make working with Database Management Systems (DBMS) a breeze.
 s
 
