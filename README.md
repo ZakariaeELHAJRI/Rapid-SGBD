@@ -6,8 +6,6 @@ s
 
 
 
-
-
 ![Main Interface](./documentation/images/1.png)
 
 ## Key Objectives and Features
